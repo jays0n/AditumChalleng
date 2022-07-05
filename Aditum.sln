@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADITUM.CHALLENGE", "src\ADITUM.CHALLENGE\ADITUM.CHALLENGE.csproj", "{837F8844-5102-4637-82FC-8C4995AC64F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADITUM.CHALLENGE.TESTE", "testes\ADITUM.CHALLENGE.TESTE\ADITUM.CHALLENGE.TESTE.csproj", "{30D74786-1721-4F53-B097-ED15EFF53A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{837F8844-5102-4637-82FC-8C4995AC64F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837F8844-5102-4637-82FC-8C4995AC64F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837F8844-5102-4637-82FC-8C4995AC64F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837F8844-5102-4637-82FC-8C4995AC64F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D74786-1721-4F53-B097-ED15EFF53A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D74786-1721-4F53-B097-ED15EFF53A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D74786-1721-4F53-B097-ED15EFF53A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D74786-1721-4F53-B097-ED15EFF53A19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88DCF6E2-DDAB-4D97-9AF3-5282F36B60B3}
+	EndGlobalSection
+EndGlobal
